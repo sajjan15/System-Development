@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - NovaGames</title>
+    <style>
+        /* Reset styles */
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: Arial, sans-serif;
+        }
+
+        /* Body and background */
+        body {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+          background: linear-gradient(135deg, #d9e9f6, #b3cde0);
+        }
+
+        /* Container */
+        .container {
+          display: flex;
+          background: white;
+          width: 700px;
+          box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+          border-radius: 8px;
+        }
+
+        /* Illustration area */
+        .illustration {
+          flex: 1;
+          background-color: #f5faff;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 20px;
+          border-top-left-radius: 8px;
+          border-bottom-left-radius: 8px;
+        }
+
+        .illustration img {
+          width: 100%;
+          max-width: 250px;
+        }
+
+        /* Login form area */
+        .login-form {
+          flex: 1;
+          padding: 40px;
+        }
+
+        .login-form h2 {
+          font-size: 24px;
+          margin-bottom: 20px;
+          color: #333;
+        }
+
+        .input-group {
+          margin-bottom: 15px;
+        }
+
+        .input-group label {
+          display: block;
+          font-size: 14px;
+          color: #555;
+          margin-bottom: 5px;
+        }
+
+        .input-group input {
+          width: 100%;
+          padding: 10px;
+          font-size: 16px;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+        }
+
+        .login-button {
+          width: 100%;
+          padding: 12px;
+          font-size: 16px;
+          background-color: #4a77d4;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          margin-top: 10px;
+          transition: background-color 0.3s ease;
+        }
+
+        .login-button:hover {
+          background-color: #375a9e;
+        }
+
+        .social-login {
+          text-align: center;
+          margin-top: 20px;
+        }
+
+        .social-login p {
+          font-size: 14px;
+          color: #555;
+        }
+
+        .social-icons {
+          display: flex;
+          justify-content: center;
+          gap: 10px;
+          margin-top: 10px;
+        }
+
+        .social-icons img {
+          width: 30px;
+          height: 30px;
+          cursor: pointer;
+        }
+
+        /* Signup link */
+        .signup-link {
+          text-align: center;
+          margin-top: 10px;
+          font-size: 14px;
+          color: #555;
+        }
+
+        .signup-link a {
+          color: #4a77d4;
+          text-decoration: none;
+        }
+
+        .signup-link a:hover {
+          text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Illustration Section -->
+        <div class="illustration">
+            <img src="https://cdn-icons-png.flaticon.com/512/6681/6681204.png" alt="Cartoon Laptop" style="width: 300px;">
+        </div>
+
+        
+
+        <!-- Login Form Section -->
+        <div class="login-form">
+            <h2>Login</h2>
+            <form method="post" action="/Login/Authenticate">
+                <div class="input-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Type your username" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" placeholder="Type your password" required>
+                </div>
+                <button type="submit" class="login-button">Login</button>
+            </form>
+
+           
+
+           
+        </div>
+    </div>
+
+
+</body>
+</html>

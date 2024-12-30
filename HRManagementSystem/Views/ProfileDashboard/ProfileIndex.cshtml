@@ -1,0 +1,38 @@
+﻿@model HRManagementSystem.Models.ProfileViewModel
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1>Welcome, @Model.Name</h1>
+        <h2>Your Profile</h2>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>User ID</th>
+                    <th>Role</th>
+                    <th>Employee ID</th>
+                    <th>Name</th>
+                    <th>Department</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.UserId</td>
+                    <td>@(Model.Role == "A" ? "Admin" : Model.Role == "E" ? "Employee" : Model.Role)</td>
+                    <td>@Model.EmployeeId</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Department</td>
+                    <td>@Model.Email</td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- Button to go back to dashboard -->
+        <a href="@Url.Action("admin", "AdminDashboard")" class="btn btn-outline-secondary">Back to Dashboard</a>
+    </div>
+</div>
+
+<!-- Optional: Bootstrap CDN for styling -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">

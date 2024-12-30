@@ -1,0 +1,118 @@
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cs
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.staticwebassets.runtime.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.staticwebassets.endpoints.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.exe
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.deps.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.runtimeconfig.json
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.pdb
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\HRManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\scopedcss\bundle\HRManagementSystem.styles.css
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.HRManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.HRManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.HRManagementSystem.props
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRManagementSystem.props
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRManagementSystem.props
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManage.2BA030BA.Up2Date
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.dll
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\refint\HRManagementSystem.dll
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.pdb
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.genruntimeconfig.cache
+C:\Users\ACER\source\repos\HRManagementSystem\obj\Debug\net8.0\ref\HRManagementSystem.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.staticwebassets.runtime.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.staticwebassets.endpoints.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.exe
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.deps.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.runtimeconfig.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.pdb
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.sourcelink.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\scopedcss\bundle\HRManagementSystem.styles.css
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.HRManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.HRManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.HRManagementSystem.props
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRManagementSystem.props
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRManagementSystem.props
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManage.2BA030BA.Up2Date
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\refint\HRManagementSystem.dll
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.pdb
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\HRManagementSystem\obj\Debug\net8.0\ref\HRManagementSystem.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.staticwebassets.runtime.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.exe
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.deps.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.runtimeconfig.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\HRManagementSystem.pdb
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.AssemblyReference.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfoInputs.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.AssemblyInfo.cs
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.csproj.CoreCompileInputs.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.RazorAssemblyInfo.cs
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.sourcelink.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.HRManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.HRManagementSystem.props
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRManagementSystem.props
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRManagementSystem.props
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\scopedcss\bundle\HRManagementSystem.styles.css
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManage.2BA030BA.Up2Date
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\refint\HRManagementSystem.dll
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.pdb
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\HRManagementSystem.genruntimeconfig.cache
+C:\GIT HUB\WebApplicationProject\HRManagementSystem\obj\Debug\net8.0\ref\HRManagementSystem.dll
