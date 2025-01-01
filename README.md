@@ -1,7 +1,7 @@
 # HR Management System
 
 ## Project Overview
-The HR Management System (HRMS) is a web-based application designed to assist small organizations in managing their human resources effectively. This system enables the management of departments, employees (both teaching and non-teaching staff), and payroll operations. Built using ASP.NET Core MVC, the system combines dynamic web technologies with a modular architecture to ensure scalability and ease of use.
+The HR Management System is a web-based application designed to assist small organizations in managing their human resources effectively. This system enables the management of departments, employees (both teaching and non-teaching staff), and payroll operations. Built using ASP.NET Core MVC, the system combines dynamic web technologies with a modular architecture to ensure scalability and ease of use.
 
 ## Project Core Functionalities
 
